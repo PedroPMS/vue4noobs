@@ -29,7 +29,7 @@ Agora iremos explicar sobre cada arquivo que contém no projeto. Se você optou 
 
 ## src/assets/**
 
-Todas as imagenss e presets serão guardados aqui.
+Todas as imagens e presets serão guardados aqui.
 
 ## src/components/**
 
